@@ -15,4 +15,5 @@ for i in range(n) :
         for j in range(n) :
             if big[j][0] > big[i][0] and big[j][1] > big[i][1]:
 rank += 1  # 덩치가 더 큰 사람 수만큼 등수 밀림
+
 print(rank, end = ' ')  # 줄 바꿈 없이 한 줄로 출력
