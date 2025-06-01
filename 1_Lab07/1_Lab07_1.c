@@ -18,6 +18,7 @@ for i in range(n) :
 
 
     if cow not in position : #처음보는 소
+
         position[cow] = pos
 
         elif position[cow] != pos: # 이전 위치와 다를 경우
