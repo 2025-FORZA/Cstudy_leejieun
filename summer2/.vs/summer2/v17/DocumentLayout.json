@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\summer2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52373B8E-A66D-47BE-ACE7-BEE7D69119EE}|summer2.vcxproj|C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\summer2\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52373B8E-A66D-47BE-ACE7-BEE7D69119EE}|summer2.vcxproj|solutionrelative:4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52373B8E-A66D-47BE-ACE7-BEE7D69119EE}|summer2.vcxproj|C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\summer2\\3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52373B8E-A66D-47BE-ACE7-BEE7D69119EE}|summer2.vcxproj|solutionrelative:3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52373B8E-A66D-47BE-ACE7-BEE7D69119EE}|summer2.vcxproj|C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\summer2\\5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{52373B8E-A66D-47BE-ACE7-BEE7D69119EE}|summer2.vcxproj|solutionrelative:5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "4.c",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\summer2\\4.c",
+              "RelativeDocumentMoniker": "4.c",
+              "ToolTip": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\summer2\\4.c",
+              "RelativeToolTip": "4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-28T13:30:45.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "5.c",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\summer2\\5.c",
+              "RelativeDocumentMoniker": "5.c",
+              "ToolTip": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\summer2\\5.c",
+              "RelativeToolTip": "5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-28T13:18:52.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "3.c",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\summer2\\3.c",
+              "RelativeDocumentMoniker": "3.c",
+              "ToolTip": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\summer2\\3.c",
+              "RelativeToolTip": "3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-28T13:16:51.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
