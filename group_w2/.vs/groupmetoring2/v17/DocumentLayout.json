@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\groupmetoring2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A3E15-5E5A-4E06-86D1-BBD4B206650A}|groupmetoring2.vcxproj|C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\groupmetoring2\\1094.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E5A3E15-5E5A-4E06-86D1-BBD4B206650A}|groupmetoring2.vcxproj|solutionrelative:1094.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A3E15-5E5A-4E06-86D1-BBD4B206650A}|groupmetoring2.vcxproj|C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\groupmetoring2\\2753.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E5A3E15-5E5A-4E06-86D1-BBD4B206650A}|groupmetoring2.vcxproj|solutionrelative:2753.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5A3E15-5E5A-4E06-86D1-BBD4B206650A}|groupmetoring2.vcxproj|C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\groupmetoring2\\1110.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E5A3E15-5E5A-4E06-86D1-BBD4B206650A}|groupmetoring2.vcxproj|solutionrelative:1110.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "1094.c",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\groupmetoring2\\1094.c",
+              "RelativeDocumentMoniker": "1094.c",
+              "ToolTip": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\groupmetoring2\\1094.c",
+              "RelativeToolTip": "1094.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-09T08:34:01.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2753.c",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\groupmetoring2\\2753.c",
+              "RelativeDocumentMoniker": "2753.c",
+              "ToolTip": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\groupmetoring2\\2753.c",
+              "RelativeToolTip": "2753.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-09T08:12:11.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "1110.c",
+              "DocumentMoniker": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\groupmetoring2\\1110.c",
+              "RelativeDocumentMoniker": "1110.c",
+              "ToolTip": "C:\\Users\\\uC774\uC9C0\uC740\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\forza\\groupmetoring2\\1110.c",
+              "RelativeToolTip": "1110.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-09T08:10:50.07Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
